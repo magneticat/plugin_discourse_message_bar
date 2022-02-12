@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    promobar_content: "html content for the promotional bar"
+    promobar_enabled: "Enable the promotional bar"
+    promobar_link: "Promotional bar link"

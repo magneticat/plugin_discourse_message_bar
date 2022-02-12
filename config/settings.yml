@@ -1,0 +1,10 @@
+promobar_settings:
+  promobar_content:
+    default: ''
+    client: true
+  promobar_link:
+    default: 'https://windowcleaner.com'
+    client: true    
+  promobar_enabled:
+    default: false
+    client: true
